@@ -1,3 +1,11 @@
+# Modified
+
+* add sort for CP
+
+## Note.
+
+* before use this tool, you must logout on the phone.
+
 # Pokemon Journal
 View your pokemon and their individual values.
 
