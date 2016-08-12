@@ -5,6 +5,7 @@
 ## Note.
 
 * before use this tool, you must logout on the phone.
+* default port is 3000
 
 # Pokemon Journal
 View your pokemon and their individual values.
